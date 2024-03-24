@@ -1,0 +1,15 @@
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/bin/Debug/net8.0/LINQSamples.Common.deps.json
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/bin/Debug/net8.0/LINQSamples.Common.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/bin/Debug/net8.0/LINQSamples.Common.pdb
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/bin/Debug/net8.0/LINQSamples.DataLayer.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/bin/Debug/net8.0/LINQSamples.DataLayer.pdb
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.csproj.AssemblyReference.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.AssemblyInfoInputs.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.AssemblyInfo.cs
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.csproj.CoreCompileInputs.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.csproj.CopyComplete
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/refint/LINQSamples.Common.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/LINQSamples.Common.pdb
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.Common/obj/Debug/net8.0/ref/LINQSamples.Common.dll

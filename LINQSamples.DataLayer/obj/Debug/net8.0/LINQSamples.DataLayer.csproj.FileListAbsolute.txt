@@ -1,0 +1,11 @@
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/bin/Debug/net8.0/LINQSamples.DataLayer.deps.json
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/bin/Debug/net8.0/LINQSamples.DataLayer.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/bin/Debug/net8.0/LINQSamples.DataLayer.pdb
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/LINQSamples.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/LINQSamples.DataLayer.AssemblyInfoInputs.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/LINQSamples.DataLayer.AssemblyInfo.cs
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/LINQSamples.DataLayer.csproj.CoreCompileInputs.cache
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/LINQSamples.DataLayer.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/refint/LINQSamples.DataLayer.dll
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/LINQSamples.DataLayer.pdb
+/Users/theoramalatso/CODE/CONSOLEPROJECTS/LINQ/LINQSamples.DataLayer/obj/Debug/net8.0/ref/LINQSamples.DataLayer.dll
